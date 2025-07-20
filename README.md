@@ -12,13 +12,6 @@ A simple desktop application built with **Python Tkinter** that allows users to 
 
 ---
 
-## 🖼️ Demo
-
-> ![screenshot](https://via.placeholder.com/500x300?text=Translator+GUI+Preview)
-
-*(Replace with a real screenshot if available)*
-
----
 
 ## 🛠️ Requirements
 
