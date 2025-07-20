@@ -21,12 +21,13 @@ def translate_text():
         messagebox.showerror("Translation Error", str(e))
 
 languages = {
-    'English': 'en',
-    'French': 'fr',
-    'Spanish': 'es',
-    'German': 'de',
-    'Chinese (Simplified)': 'zh-cn',
-    'Japanese': 'ja',
+    'English': 'english',
+    'French': 'french',
+    'Spanish': 'spanish',
+    'German': 'german',
+    'Chinese (Simplified)': 'chiense',
+    'Japanese': 'japanese',
+    'Hindi':'hindi',
     
 }
 
